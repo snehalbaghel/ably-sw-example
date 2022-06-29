@@ -10,6 +10,7 @@
     "build": "plasmo build"
   },
   "dependencies": {
+    "ably": "^1.2.25",
     "plasmo": "latest",
     "react": "18.2.0",
     "react-dom": "18.2.0"
